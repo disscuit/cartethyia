@@ -8,5 +8,5 @@ html {
 .navbar a {
   color: white;
   text-decoration: none;
-  font-size: clamp(1 rem, 2.5vw, 2rem)
+  font-size: clamp(1 rem, 5vw, 2rem)
 }
