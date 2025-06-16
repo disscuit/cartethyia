@@ -6,7 +6,7 @@ html {
 .navbar {
   background-color: #333;
   font-family: Arial;
-  height: clamp(2rem, 10vh, 3rem)
+  height: clamp(2rem, 10vh, 3rem);
   position: fixed;
 }
 .navbar a {
