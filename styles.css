@@ -1,7 +1,9 @@
 .navbar a {
   background-color: #333;
-  color: white;
   font-family: arial;
   text-decoration: none;
+}
+.navbar a {
+  color: white;
 
 }
