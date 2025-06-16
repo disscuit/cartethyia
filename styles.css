@@ -4,10 +4,10 @@ html {
 .navbar {
   background-color: #333;
   font-family: Arial;
-  height: clamp(5rem, 20vh, 10rem)
+  height: clamp(3rem, 15vh, 5rem)
 }
 .navbar a {
   color: white;
   text-decoration: none;
-  font-size: clamp(1rem, 15vw, 4rem)
+  font-size: clamp(1rem, 10vw, 3rem)
 }
