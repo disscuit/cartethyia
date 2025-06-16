@@ -1,4 +1,10 @@
-html {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+
+}
+html, body {
  font-size: 16px;
  margin: 0;
  padding: 0;
@@ -7,7 +13,8 @@ html {
   background-color: #333;
   font-family: Arial;
   height: clamp(2rem, 10vh, 3rem);
-  position: fixed;
+  width: 100%;
+  
 }
 .navbar a {
   color: white;
