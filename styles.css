@@ -3,11 +3,11 @@ html {
 }
 .navbar {
   background-color: #333;
-  font-family: arial;
-  height: clamp(5 rem, 20vh, 10rm)
+  font-family: Arial;
+  height: clamp(5rem, 20vh, 10rem)
 }
 .navbar a {
   color: white;
   text-decoration: none;
-  font-size: clamp(1 rem, 15vw, 4rem)
+  font-size: clamp(1rem, 15vw, 4rem)
 }
