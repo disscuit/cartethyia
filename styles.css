@@ -4,6 +4,7 @@ html {
 .navbar {
   background-color: #333;
   font-family: arial;
+  height: clamp(5 rem, 10vh, 10rm)
 }
 .navbar a {
   color: white;
