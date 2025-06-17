@@ -12,7 +12,7 @@ html, body {
 .navbar {
   background-color: #333;
   font-family: Arial;
-  height: clamp(2rem, 12vh, 3rem);
+  height: clamp(2rem, 12vh, 4rem);
   width: 100%;
   
 }
