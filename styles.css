@@ -14,10 +14,10 @@ html, body {
   font-family: Arial;
   height: clamp(3rem, 14vh, 4rem);
   width: 100%;
-  
+  display: flex;
 }
 .navbar a {
-  display: flex;
+  position: static;
   color: white;
   text-decoration: none;
   font-size: clamp(0.75rem, 3vw, 1rem);
