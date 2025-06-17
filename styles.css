@@ -23,5 +23,5 @@ html, body {
   position: absolute;
   top: clamp(1rem,4vh,1.5rem);
   left: clamp(1rem,7vw,3rem);
-  transform: scaleY(1.25);
+  transform: scaleY(1.1);
 }
