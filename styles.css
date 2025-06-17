@@ -24,5 +24,6 @@ html, body {
   width: clamp(1.25rem,6.5vw,4rem);
   height: clamp(1.25rem,6.5vh,4rem);
   padding: clamp(0.75rem,5vw,3rem);
+  display: inline-block;
 }
 
