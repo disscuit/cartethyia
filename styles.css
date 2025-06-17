@@ -10,7 +10,7 @@ html, body {
  padding: 0;
 }
 .navbar {
-  background-color: #333;
+  background-color: #1e1e2f;
   font-family: Arial;
   height: clamp(3rem, 14vh, 4rem);
   width: 100%;
