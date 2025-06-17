@@ -21,9 +21,6 @@ html, body {
   color: white;
   text-decoration: none;
   font-size: clamp(0.75rem, 3vw, 1rem);
-  top: clamp(1rem,4vh,1.5rem);
-  left: clamp(1rem,7vw,3rem);
   transform: scaleY(1.1);
-  margin-left: clamp(0.67rem, 2vw, 2.5rem);
-  margin-right: clamp(0.67rem, 2vw, 2.5rem);
+  padding: clamp(1rem,6vw,5rem);
 }
