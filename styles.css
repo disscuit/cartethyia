@@ -18,7 +18,6 @@ html, body {
 }
 .navbar a {
   display: flex;
-  align-items: center;
   color: white;
   text-decoration: none;
   font-size: clamp(0.75rem, 3vw, 1rem);
