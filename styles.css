@@ -19,7 +19,7 @@ html, body {
 .navbar a {
   color: white;
   text-decoration: none;
-  font-size: clamp(0.75rem, 3vw, 1rem)
+  font-size: clamp(0.75rem, 3vw, 1rem);
   position: absolute;
   top: clamp(1rem,5vh,2rem);
   left: clamp(1rem,7vw,3rem);
