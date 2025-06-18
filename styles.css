@@ -1,28 +1,2 @@
 
-html, body {
- font-size: 16px;
- margin: 0;
- padding: 0;
-}
-.navbar {
-  background-color: #1e1e2f;
-  font-family: Arial;
-  height: clamp(3rem, 14vh, 4rem);
-  width: 100%;
-  display: flex;
-  align-items: center;
-}
-.navbar a {
-  position: static;
-  color: white;
-  text-decoration: none;
-  font-size: clamp(0.9rem, 3vw, 1.3rem);
-  padding: clamp(2rem,7vw,4rem);
-  bottom: clamp(0.4rem,3vw,1rem);
-}
-.logo {
-  width: clamp(1.25rem,6.5vw,4rem);
-  height: clamp(1.25rem,6.5vh,4rem);
-  bottom: clamp(0.4rem,3vw,1rem);
-}
 
