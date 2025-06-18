@@ -27,4 +27,8 @@ nav a {
   font-family: Arial;
   
 }
+.firstnav {
+  margin-left: clamp(5rem,43vw,6rem)
+
+}
 
