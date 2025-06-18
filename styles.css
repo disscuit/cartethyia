@@ -11,7 +11,10 @@ header {
   
 }
 navbar a {
-  color: white
-
+  font-size: 16px;
+  display: flex;
+  color: white;
+  text-decoration: none;
+  padding: clamp(2rem,6vh,3rem) clamp(3rem,10vw,4rem)
 }
 
