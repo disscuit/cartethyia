@@ -16,7 +16,7 @@ nav a {
   display: inline;
   color: white;
   text-decoration: none;
-  border-top: clamp(0.5rem,3.22vh,1rem);
+  border-top: clamp(0.5rem,3.22vh,1rem) solid transparent;
   margin: clamp(1rem,8.9vw,3rem)
   font-family: Arial;
   
