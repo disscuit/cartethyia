@@ -24,6 +24,6 @@ html, body {
 .logo {
   width: clamp(1.25rem,6.5vw,4rem);
   height: clamp(1.25rem,6.5vh,4rem);
-  display: inline-block;
+  
 }
 
