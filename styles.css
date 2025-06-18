@@ -28,7 +28,7 @@ nav a {
   
 }
 .firstnav {
-  margin-left: clamp(5rem,43vw,6rem)
+  margin-left: clamp(10rem,43vw,14rem)
 
 }
 
