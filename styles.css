@@ -19,6 +19,7 @@ html, body {
   font-size: clamp(0.75rem, 3vw, 1rem);
   transform: scaleY(1.1);
   padding: clamp(1rem,7vw,3.5rem);
+  padding-down: clamp(1rem,3vh,2rem);
 }
 .logo {
   width: clamp(1.25rem,6.5vw,4rem);
