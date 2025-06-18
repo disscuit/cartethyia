@@ -23,6 +23,6 @@ html, body {
 .logo {
   width: clamp(1.25rem,6.5vw,4rem);
   height: clamp(1.25rem,6.5vh,4rem);
-  padding-left: clamp(0.4rem,2vw,0.6rem);
+  gap: clamp(0.4rem,2vw,0.6rem);
 }
 
