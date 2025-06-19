@@ -14,10 +14,8 @@ html,body {
  align-items: center;
 }
 .desktop-header ul {
+  disply: flex;
   list-style-type: none;
-}
-.desktop-header li {
- float: left;
 }
 .desktop-header li a{
   color: white;
