@@ -30,6 +30,11 @@ nav a {
 }
 .firstnav {
   margin-left: clamp(10rem,43vw,14rem)
+  
+}
+#logo {
+  width: 10%;
+  height: 10%;
+  
 
 }
-
