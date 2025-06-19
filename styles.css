@@ -5,6 +5,8 @@
  background-color: #404040;
  font-family: "Segoe-UI",Arial,sans-serif;
  list-style-type: none;
+ width: 100%;
+ text-decoration: none; 
 }
 .desktop-header a {
   float: right; 
