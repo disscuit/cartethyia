@@ -1,1 +1,14 @@
-
+.desktop {
+ display: block
+}
+.phone {
+ display: none;
+}
+@media screen and (max-width: 400px) {
+ .desktop {
+   display: none;
+ }
+ .phone {
+   display: block;
+ }
+}
