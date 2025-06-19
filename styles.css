@@ -18,6 +18,14 @@ header {
   align-items: center;
   
 }
+
+#logo {
+  width: 5%;
+  height: 85%;
+  padding-left: clamp(2rem,2vw,3rem);
+  
+
+}
 nav a {
   font-size: 18px;
   display: inline;
@@ -32,10 +40,17 @@ nav a {
   margin-left: clamp(10rem,43vw,14rem)
   
 }
-#logo {
-  width: 5%;
-  height: 85%;
-  padding-left: clamp(2rem,2vw,3rem);
-  
+
+@media (max-width: 768px) {
+  .nav-desktop {
+    display: none;
+    
+  }
+
+  .nav-phone {
+    display: block;
+  }
+
 
 }
+
