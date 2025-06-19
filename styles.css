@@ -8,10 +8,12 @@
  width: 100%;
  text-decoration: none; 
 }
+desktop-header ul {
+  list-style-type: none;
+}
 .desktop-header li {
   float: right; 
-  color: white;
-  list-style-type: none; 
+  color: white; 
 }
 .phone-header {
  display: none;
