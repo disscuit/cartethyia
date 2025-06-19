@@ -12,7 +12,9 @@
   list-style-type: none;
 }
 .desktop-header li {
-  float: right; 
+ float: left;
+}
+.desktop-header li a{
   color: white; 
 }
 .phone-header {
