@@ -24,7 +24,8 @@ nav a {
   color: white;
   text-decoration: none;
   margin: clamp(1rem,8.9vw,3rem);
-  font-family: Arial;
+  font-family: 'Segoe UI',Arial,sans-serif;
+  transform: scaleY(1.1);
   
 }
 .firstnav {
