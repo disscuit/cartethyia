@@ -1,5 +1,7 @@
 .desktop {
- display: block
+ display: block;
+ position: fixed;
+ 
 }
 .phone {
  display: none;
