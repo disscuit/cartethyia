@@ -8,7 +8,7 @@
  width: 100%;
  text-decoration: none; 
 }
-.desktop-header a {
+.desktop-header li {
   float: right; 
   color: white;
   list-style-type: none; 
