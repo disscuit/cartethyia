@@ -1,4 +1,4 @@
-.desktop {
+.desktop-header {
  display: block;
  position: fixed;
  float: left;
@@ -7,14 +7,14 @@
  color: white;
  font-family: "Segoe-UI",Arial,sans-serif;
 }
-.phone {
+.phone-header {
  display: none;
 }
 @media screen and (max-width: 400px) {
- .desktop {
+ .desktop-header {
    display: none;
  }
- .phone {
+ .phone-header {
    display: block;
  }
 }
