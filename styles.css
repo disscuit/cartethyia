@@ -1,12 +1,10 @@
 .desktop-header {
  display: block;
- position: fixed;
- text-decoration: none; 
+ position: fixed; 
  background-color: #404040;
  font-family: "Segoe-UI",Arial,sans-serif;
  list-style-type: none;
  width: 100%;
- text-decoration: none; 
 }
 .desktop-header ul {
   list-style-type: none;
@@ -15,7 +13,8 @@
  float: left;
 }
 .desktop-header li a{
-  color: white; 
+  color: white;
+  text-decoration: none; 
 }
 .phone-header {
  display: none;
