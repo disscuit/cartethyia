@@ -1,7 +1,11 @@
 .desktop {
  display: block;
  position: fixed;
- 
+ float: left;
+ text-decoration: none; 
+ background-color: #404040
+ color: white;
+ font-family: "Segoe-UI",Arial,sans-serif;
 }
 .phone {
  display: none;
