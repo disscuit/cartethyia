@@ -16,6 +16,7 @@ html,body {
 .desktop-header ul {
   display: flex;
   list-style-type: none;
+  gap: 45px;
 }
 .desktop-header li a{
   color: white;
