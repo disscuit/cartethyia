@@ -6,7 +6,7 @@ html {
 }
 body {
   margin: 0;
-  padding-top: clamp(0.5rem,3.22vh,1rem);
+  padding-top: clamp(0.5rem,3.22vh,1rem) solid transparent;
   width: 100vw;
   height: 100vh;
 }
