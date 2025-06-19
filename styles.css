@@ -21,7 +21,7 @@ html,body {
 .desktop-header li a{
   color: white;
   text-decoration: none;
-  padding: 16px
+  padding: 16px;
   font-size: 20px;
 }
 .phone-header {
