@@ -35,7 +35,7 @@ nav a {
 #logo {
   width: 6%;
   height: 90%;
-  margin: clamp(2rem,2vw,3rem);
+  padding-left: clamp(2rem,2vw,3rem);
   
 
 }
