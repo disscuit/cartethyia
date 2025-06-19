@@ -23,6 +23,7 @@ html,body {
   text-decoration: none;
   margin: 20px;
   font-size: 20px;
+  align-items: center;
 }
 .phone-header {
  display: none;
