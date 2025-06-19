@@ -8,7 +8,7 @@
  width: 100%;
  text-decoration: none; 
 }
-desktop-header ul {
+.desktop-header ul {
   list-style-type: none;
 }
 .desktop-header li {
