@@ -6,7 +6,6 @@ body {
   list-style-type: none;
   display: flex;
   align-items: center;
-  margin-right: auto;
   gap: 30px;
 }
 
