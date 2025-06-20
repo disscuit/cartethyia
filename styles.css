@@ -35,5 +35,7 @@ body {
   padding-left: 21%;
   margin-left: 20%;
   margin-right: 20%;
-  border: 2px solid white;
+  border: 2px solid transparent;
+  background-color: #424242;
+
 }
