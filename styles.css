@@ -1,7 +1,17 @@
+body {
+ font-family:"Segoe UI";
+
+}
 .home-header ul {
   list-style-type: none;
   display: flex;
   align-items: center;
-  justify-content: space-betwen;
+  justify-content: space-between;
   gap: 20px;
-} 
+}
+
+.home-header a {
+  text-decoration: none;
+  font-size: 16px; 
+
+}
