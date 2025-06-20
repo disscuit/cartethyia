@@ -9,6 +9,7 @@ body {
  background-color: #bee0f4;
  width: 100%;
  height: 6.6%;
+ border-bottom: 2px solid black;
 }
 .home-header ul {
   list-style-type: none;
