@@ -32,5 +32,6 @@ html,body {
  }
  .phone-header {
    display: block;
+   color: white;
  }
 }
